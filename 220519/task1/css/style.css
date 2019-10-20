@@ -1,0 +1,22 @@
+.element{
+    
+width:600px;
+height: 600px;
+position: relative;
+border-radius: 7px;
+background-color:purple;
+top:0px;
+left:0px
+
+}
+.element .cub{
+    width:50px;
+    height: 50px;
+    background-color:black;
+    position: relative;
+    border-radius: 7px;
+    top:0px;
+    left:0px;
+
+
+}

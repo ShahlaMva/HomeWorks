@@ -1,0 +1,91 @@
+.container{
+    width:1200px;
+    box-sizing: border-box;
+}
+
+body{font-weight:0.2px;;
+    background-color:rgba(0,0,0,.03);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.btn-outline-success {
+    border-color:#007bff;
+    background-color: transparent;
+    background-image: none;
+    color:#007bff;
+   
+
+}
+header .btn{
+    padding: 0.1rem 1rem !important;
+
+}
+
+    .navbar-light .navbar-nav .nav-link{
+        color:black;
+    }
+    main .container .title h1{
+        position:relative;
+        font-size:60px;
+       
+        top:60px;
+    }
+    main .container .title p{
+        position: relative;
+        font-size:20px;
+       
+        display:block;
+        top:70px;
+    }
+.card {
+
+    width:300px;
+    height:350px;
+  top:100px;
+ 
+  
+
+}
+.btn-outline-success:hover{
+    color:white;
+    border-color:#007bff;
+    background:#007bff;
+}
+[class*="card-title"]{
+    font-size:40px;
+
+}
+b{
+    font-size:30px;
+    color:#25252582;
+}
+footer img {
+    position: absolute;
+    widows: 24px;
+    height: 24px ;
+top:200px;
+left:30px;
+}
+[class*="card-header"]{
+    font-size:30px;
+}
+.btn{
+   padding: .475rem 4rem;
+}
+footer h4{
+    font-size:15px;
+    color:#1d191982;
+    position:absolute;
+    top:230px;
+    left:30px;
+}
+footer .container ul {position:absolute;
+    top:200px;
+
+    
+}
+ul h3{
+    font-size:20px;
+    color:black !important;
+}
+ul{
+    color:#6c757d!important}

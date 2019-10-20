@@ -1,0 +1,164 @@
+header .btn-primary{
+    border-radius:0 ;
+    font-size:14px;
+    margin-top:9px;
+    margin-right:20px;
+}
+.navbar-brand{
+font-size: 1.7em;
+font-family: 'Raleway', sans-serif;
+}
+.navbar-nav{
+    font-family: 'Open Sans', sans-serif;
+font-size:15px;
+margin:9px 10px 0 10px;
+letter-spacing: 1px;
+}
+#banner{
+    position: relative;
+}
+
+
+.cover{   
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#banner .container .text {
+    position: absolute;
+    color:white;
+    top:300px;
+}
+#banner h1{
+    font-size:45px;
+    letter-spacing: 3px;
+    font-family:inherit;
+    font-weight: normal;
+}
+#banner h3{
+    letter-spacing: 3px;
+    
+    font-weight: lighter;
+    color:#eee;
+    font-size:30px;
+    line-height: 60px;
+}
+#banner .btn{
+    border:2px solid white;
+color:white;
+border-radius:0%;
+margin:8px;
+}
+   .navbar{
+       border-bottom:1px solid rgba(255, 255, 255, 0.418);
+   }
+   #registr-tour h1{
+       font-family: 'Raleway', sans-serif;
+   }
+  
+  #registr-tour{
+      background: #f8f9fa;
+     height:100%;
+     position: absolute;
+     top:60%;
+     z-index: 10000;
+     width:100%;
+     display:none;
+  }
+
+
+
+  #registr-tour input{
+      border-radius: 0%;
+      border:solid #f8f9fa;
+      background: #f8f9fa;
+      
+    
+  }
+  #registr-tour select{
+    background: #f8f9fa;
+    border:solid #f8f9fa;
+  }
+  #registr-tour textarea{
+    background: #f8f9fa;
+    border:solid #f8f9fa;
+    border-radius:0%;
+  }
+  #registr-tour button{
+      border-radius:0%;
+  }
+
+  #registr-tour .img-sale img{
+margin:9px;
+    max-width:100%;
+  }
+  #registr-tour .img-sale span{
+      position: absolute;
+      background:#007bff;
+      color:white;
+      padding:4px;
+      right: 20px;
+      bottom:167px;
+  }
+  
+  #result .img-city img{
+      max-width: 100%;
+      height: auto;
+      padding:16px;
+  }
+  #result .text{
+      font-family: 'Raleway', sans-serif;
+      color:#707579;
+    padding:5px;
+  }
+  #result .text h4{
+    color:#323648;
+  }
+  #result .text-center i{
+      margin-bottom:9px;
+font-size:25px;
+color:#007bff;
+  }
+  #result .text-center h5{
+      font-family: 'Raleway', sans-serif;
+      color:#707579
+      
+  }
+  
+  
+  footer #end {
+
+    background:#151515;
+   }
+footer #end .container{
+margin-top:100px;
+    
+}
+
+#end h4{
+color:white;
+font-weight:lighter;
+    
+}
+#end p{
+    color:#707070;
+}
+#end ul li{
+color:#707070;
+
+    list-style-type: none;
+}
+
+
+#click #result{background:white;
+    height:100%;
+    position: absolute;
+    top:60%;
+    z-index: 10000;
+    width:100%;
+ display:none;
+}

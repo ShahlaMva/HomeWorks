@@ -1,0 +1,31 @@
+h3 {
+    background-color: #f2e6d9
+}
+p {
+    font-style:italic;
+}
+pre {
+    font-family: 'Times New Roman', Times, serif
+    
+}
+h5 {
+    font-size: large
+    
+}
+h4 {
+    text-align:right 
+}
+
+    div {
+        border: 2px solid black;
+ 
+  margin: 20px;  
+  padding: 30px;
+  
+}
+      
+ul.a {
+   
+    
+    text-indent: 3;
+}

@@ -1,0 +1,69 @@
+body p {
+  color: #6c757d; }
+
+header #brand {
+  font-family: "Kaushan Script", cursive;
+  color: #fed136;
+  font-size: 25px; }
+
+main #head {
+  max-width: 100%; }
+main #first .center {
+  position: relative;
+  bottom: 500px; }
+  main #first .center button {
+    color: white;
+    background-color: #fed136;
+    border-radius: 4px;
+    border-color: #fed136;
+    width: 18%; }
+  main #first .center h3 {
+    font-family: "Kaushan Script", cursive;
+    color: white;
+    font-size: 40px; }
+  main #first .center h1 {
+    color: white;
+    font-size: 90px; }
+
+#services h1 {
+  font-family: "Montserrat", sans-serif; }
+#services i {
+  font-size: 50px;
+  color: white;
+  background: #fed136;
+  padding: 18px;
+  border-radius: 50%; }
+
+#portfolio .card {
+  border: none;
+  margin-top: 9px; }
+  #portfolio .card img {
+    width: 100%;
+    height: 100%;
+    cursor: pointer; }
+
+#about img {
+  position: relative;
+  top: -220px;
+  left: 450px;
+  border-radius: 50%;
+  border: 6px solid #6c757d1f; }
+#about .history-right {
+  position: relative;
+  width: 70%;
+  height: 100%;
+  left: 700px;
+  margin-top: 60px; }
+#about .history-left {
+  position: relative;
+  margin-top: 40px;
+  width: 80%;
+  height: 100%;
+  right: -15px; }
+
+#team img {
+  width: 80%;
+  height: 80%;
+  border-radius: 50%; }
+
+/*# sourceMappingURL=style.css.map */
